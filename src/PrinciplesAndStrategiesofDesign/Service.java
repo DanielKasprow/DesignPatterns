@@ -1,10 +1,6 @@
 package PrinciplesAndStrategiesofDesign;
 
 
-import java.util.Arrays;
-import java.util.Collections;
-
-
 public interface Service {
     void write(String message);
 }
@@ -41,7 +37,6 @@ class Client {
         client.doSomething();
 
         client.setService(service);  // injects via a setter injection
-        int[] A = {1, 3, 6, 4, 1, 2};
 
     }
 }
