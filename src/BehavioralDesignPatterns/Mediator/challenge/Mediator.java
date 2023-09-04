@@ -1,4 +1,4 @@
-package BehavioralDesignPatterns.mediator.challenge;
+package BehavioralDesignPatterns.Mediator.challenge;
 
 import java.util.ArrayList;
 import java.util.List;

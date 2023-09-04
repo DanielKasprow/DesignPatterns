@@ -1,4 +1,4 @@
-package BehavioralDesignPatterns.mediator.challenge;
+package BehavioralDesignPatterns.Mediator.challenge;
 
 class Main {
     public static void main(String[] args) {

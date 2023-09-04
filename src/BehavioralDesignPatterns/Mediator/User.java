@@ -1,4 +1,4 @@
-package BehavioralDesignPatterns.mediator;
+package BehavioralDesignPatterns.Mediator;
 
 abstract class User {
     protected ChatMediator mediator;

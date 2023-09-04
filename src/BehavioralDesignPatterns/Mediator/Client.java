@@ -1,4 +1,4 @@
-package BehavioralDesignPatterns.mediator;
+package BehavioralDesignPatterns.Mediator;
 
 public class Client {
     public static void main(String[] args) {

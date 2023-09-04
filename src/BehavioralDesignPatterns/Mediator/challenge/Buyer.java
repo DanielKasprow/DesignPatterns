@@ -1,4 +1,4 @@
-package BehavioralDesignPatterns.mediator.challenge;
+package BehavioralDesignPatterns.Mediator.challenge;
 
 abstract class Buyer {
     protected Mediator mediator;

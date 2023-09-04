@@ -1,4 +1,4 @@
-package BehavioralDesignPatterns.mediator;
+package BehavioralDesignPatterns.Mediator;
 
 import java.util.ArrayList;
 import java.util.List;
